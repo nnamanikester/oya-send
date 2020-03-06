@@ -1,6 +1,5 @@
 # Server-tutorial
-This is a tutorial to teach how to create a simple, secure and robust nodejs server. 
-**Full details on how to build out this server is found [here](https://dev.to/ebereplenty/setting-up-a-simple-secure-and-robust-node-js-server-10n0)**.
+This is a Fintech app built with NodeJS and Azure Api for Face recognition Authentication.
 
 ## Dependences
 - [Express](https://www.npmjs.com/package/express)
